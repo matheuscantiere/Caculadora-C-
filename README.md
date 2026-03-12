@@ -39,4 +39,5 @@ Multiplicação por zero:
 ![alt text](/assets/image-4.png)
 
 Divisão por zero:
+
 ![alt text](/assets/image-5.png)
