@@ -31,13 +31,13 @@ Calculadora com operações:
 ### Multiplicação
 ![alt text](/assets/image-3.png)
 
-Multiplicação por zero:
+#### Multiplicação por zero:
 
 ![alt text](/assets/image-6.png)
  
 ### Divisão
 ![alt text](/assets/image-4.png)
 
-Divisão por zero:
+#### Divisão por zero:
 
 ![alt text](/assets/image-5.png)
