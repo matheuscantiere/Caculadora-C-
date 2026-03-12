@@ -32,6 +32,7 @@ Calculadora com operações:
 ![alt text](/assets/image-3.png)
 
 Multiplicação por zero:
+
 ![alt text](/assets/image-6.png)
  
 ### Divisão
